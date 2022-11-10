@@ -4,4 +4,4 @@
 
 Фото:
 
-![](_mtz9Sbh3eM.jpg)
+![](https://github.com/Sergio210-05/About_me/blob/main/_mtz9Sbh3eM.jpg)
